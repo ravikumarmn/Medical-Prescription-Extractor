@@ -1,6 +1,6 @@
-# OCR Prescription Extractor
+# Medical Prescription Extractor
 
-An AI-powered application that extracts and structures medical prescription information using OCR and Gemini Vision AI.
+An AI-powered application that extracts and structures medical prescription information..
 
 ## Features
 
