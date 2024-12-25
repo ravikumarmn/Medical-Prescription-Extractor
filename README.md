@@ -1,5 +1,11 @@
 # Medical Prescription Extractor
 
+
+
+<img src="assets/Medical-Page.png" alt="Application Page" title="Website Page">
+
+
+
 An AI-powered application that extracts and structures medical prescription information..
 
 ## Features
