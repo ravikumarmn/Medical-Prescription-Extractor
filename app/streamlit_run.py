@@ -308,6 +308,8 @@ def main():
                     if not results["success"]:
                         return
                     
+                    st.success(" Prescription processed successfully!")
+                    
                     if results["structured_result"]["data"]:
                         st.subheader("Structured Information")
                         st.json(results["structured_result"]["data"])
