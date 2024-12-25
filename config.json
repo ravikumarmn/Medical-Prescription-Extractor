@@ -1,0 +1,29 @@
+{
+    "model": {
+        "name": "gemini-1.5-flash-002",
+        "cost_per_million": {
+            "gemini-1.5-flash": {
+                "input": 0.075,
+                "output": 0.30
+            },
+            "gemini-1.5-flash-001": {
+                "`input": 0.075,
+                "output": 0.30
+            }
+        }
+    },
+    "image_processing": {
+        "max_width": 800,
+        "max_height": 800,
+        "allowed_extensions": [".jpg", ".jpeg", ".png", ".bmp"]
+    },
+    "ui": {
+        "canvas": {
+            "width": 1200,
+            "height": 800,
+            "stroke_width": 2,
+            "stroke_color": "#000000",
+            "background_color": "#ffffff"
+        }
+    }
+}
